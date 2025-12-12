@@ -1,2 +1,2 @@
 Line 1: Version 1
-Line 2: shared content
+Line 2: main-branch change
